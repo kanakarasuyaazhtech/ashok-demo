@@ -1,0 +1,14 @@
+/* Main.css */
+
+.main {
+    padding: 20px;
+  }
+  
+  .featured-section, .latest-section {
+    margin-bottom: 30px;
+  }
+  
+  .featured-section h2, .latest-section h2 {
+    margin-bottom: 10px;
+  }
+  
