@@ -12,6 +12,15 @@
   .logo img {
     width: 50px; /* Adjust the width as needed */
     height: auto;
+    display: flex;
+  }
+
+   #header h1{
+    color: rgb(60, 14, 196);
+    display: flex;
+    padding: 20px;
+    border: 1px dotted rebeccapurple;
+    border-radius: 20%;
   }
   
   .nav-links ul {
