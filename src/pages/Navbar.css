@@ -39,7 +39,34 @@
     text-decoration: underline;
   }
   
-  .nav-actions {
-    /* Additional actions styling */
+  .universal_heading{
+    text-align: center;
+    font-size: 40px;
+    color: #080303e0;
+    margin-top: 0;
+    padding-top: 20px;
+    margin-bottom: 10px;
+    line-height: normal;
+    font-weight: bold;
   }
-  
+  .partnerFlex{
+    display:flex;
+    justify-content:flex-end;
+    flex-wrap: wrap;
+    column-gap: 25px;
+    padding-top: 16px;
+    padding-bottom: 55px;
+    padding-left: 10cm;
+  }
+
+  .universal_mid{
+   text-align:center;
+    font-size: 30px;
+    color: #060b08e0;
+    margin-top: 0;
+    padding-top: 20px;
+    margin-bottom: 10px;
+    line-height: normal;
+    justify-content: center;
+    font-weight: bold;
+  }

@@ -1,9 +1,24 @@
 .Button{
     display: flex;
     flex-direction: column;
-    background-color: blue;
+    background-color: rgb(24, 233, 142);
     padding: 20px;
-    color: white;
+    color: rgb(221, 12, 12);
+    border-radius: 10%;
+    font-size: 20px;
+    margin-bottom: 8px;
+    font-weight: bolder;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Different{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(228, 239, 16);
+    padding: 20px;
+    color: rgb(12, 221, 43);
     border-radius: 10%;
     font-size: 20px;
     margin-bottom: 8px;

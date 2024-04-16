@@ -33,3 +33,19 @@ body, html {
   padding: 20px;
   text-align: center;
 }
+
+.img {
+  width: 100%;
+  height: auto;
+  background-color: rgb(147, 4, 4);
+}
+
+.partnerColor{
+  text-align: center;
+  font-size: 40px;
+  color: #d90c0c;
+  margin-top: 0;
+  padding-top: 20px;
+  margin-bottom: 10px;
+  line-height: normal;
+}

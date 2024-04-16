@@ -21,8 +21,8 @@ function Header() {
           <li><a href="/contact">Services</a></li>
         </ul>
       </nav>
-  
-    </header>
+      
+ </header>
   );
 }
 

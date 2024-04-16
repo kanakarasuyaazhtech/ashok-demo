@@ -1,0 +1,43 @@
+.name{
+
+    flex-direction: column;
+    background-color: rgb(216, 86, 15);
+    padding: 5px;
+    color: rgb(15, 2, 2);
+    border-radius: 10%;
+    font-size: 20px;
+    margin-bottom: 8px;
+    font-weight: bolder;
+    width: 150px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.namefield{
+
+    flex-direction: column;
+    background-color: rgb(216, 86, 15);
+    padding: 5px;
+    color: rgb(15, 2, 2);
+    border-radius: 10%;
+    font-size: 20px;
+    margin-bottom: 8px;
+    font-weight: bolder;
+    width: 150px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.submit{
+    
+    flex-direction: column;
+    background-color: rgb(24, 233, 142);
+    padding: 5px;
+    color: rgb(221, 12, 12);
+    border-radius: 10%;
+    font-size: 20px;
+    margin-bottom: 8px;
+    font-weight: bolder;
+    width: 150px;
+   
+}

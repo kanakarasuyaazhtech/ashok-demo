@@ -42,4 +42,14 @@
   .copyright {
     font-size: 14px;
   }
-  
+
+  .imgfoot{
+    width: 30px;
+    height: auto; 
+    padding: 4px;
+  }
+
+  .ul1{
+    margin-inline: 5%;
+  }
+ 

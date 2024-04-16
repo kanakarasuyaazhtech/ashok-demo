@@ -1,5 +1,7 @@
 import { Component } from "react";
 import "./Table.css"
+
+
 class Table extends Component {
 
   constructor(props) {
@@ -12,7 +14,6 @@ class Table extends Component {
   dicrement = () => {
     this.setState({ count: this.state.count - 10 })
   }
-
   reset = () => {
     this.setState({ count: 0  })
   }
@@ -29,4 +30,9 @@ class Table extends Component {
 
   }
 }
+
+
+
+
+
 export default Table;

@@ -1,0 +1,33 @@
+.dream11mobile{
+    width: 100%;
+    height: auto;
+    display: block;
+    max-width: 540px;
+    width: 100%;
+    position: relative;
+    top: 17px;
+}
+
+.android{
+    width: 30%;
+    height: auto;
+}
+.iphone{
+    width: 30%;
+    height: auto;
+  padding-left: 3px;
+}
+.qr{
+    width: 20%;
+    height: auto; 
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
+
+.scantext{
+    color: blue;
+}
+.linehr{
+    padding-top: 2%;
+}
+
